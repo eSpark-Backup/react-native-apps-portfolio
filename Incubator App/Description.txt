@@ -1,0 +1,8 @@
+Incubator App (Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, iot, Ble,
+
+Features: Display and Control Monitor for Baby Incubators, with alarm system managing.

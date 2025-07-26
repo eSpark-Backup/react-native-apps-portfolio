@@ -1,0 +1,8 @@
+Dual Camera App (Hybrid IOS & Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, Aws, Raspi, Ble Connection, wifi connection, Youtube/Facebook integration.
+
+Features: Dual Camera provides users to stream video feed from iot device to mobile app, also recording to a selected Platform(Youtube/Facebook) and storing to aws.

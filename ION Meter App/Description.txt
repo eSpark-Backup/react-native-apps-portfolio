@@ -1,0 +1,8 @@
+Ion Meter (Hybrid IOS & Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, Rest api, maps, location
+
+Features: Ion meter is an app designed to managing smart meters in homes, buildings, offices etc. With users and technicians to get meter information and reports.

@@ -1,0 +1,9 @@
+Pranayama (Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, Firestore
+
+Features: Pranayama is develop to help users medidate and relax with built in modes and presets.
+

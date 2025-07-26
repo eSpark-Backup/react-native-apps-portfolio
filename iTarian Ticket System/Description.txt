@@ -1,0 +1,8 @@
+iTarian Ticket System (Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, Auth sso, Rest Api
+
+Features: A Ticketing Managing System for technician/admins/users to communicate and perform timely tasks in the IT sectors.

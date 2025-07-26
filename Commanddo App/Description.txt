@@ -1,0 +1,8 @@
+Commandدو (Hybrid IOS & Android)
+
+Google play store: https://play.google.com/store/apps/details?id=com.commanddo
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, PostgreSql, GraphQl, Heroku, Firebase
+
+Features: Office Lunch Ordering Application with internal office employees.

@@ -1,0 +1,9 @@
+Yoga App(Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, ble, audio modes.
+
+Features: Your pocket-sized yoga studio. Guided sessions for all levels. Strengthen, stretch, and find inner peace. Track progress and achieve wellness goals.
+

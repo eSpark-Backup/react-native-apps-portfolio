@@ -1,0 +1,8 @@
+Fitness Tracker (Android)
+
+Google play store: Not Deployed
+Apple Store: Not Deployed
+
+Tech Stacks: React Native, iot, Ble, wifi connectivity
+
+Features: Parchun is an online superstore that delivers all your household grocery needs to your doorstep.

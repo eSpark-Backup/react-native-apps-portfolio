@@ -1,0 +1,8 @@
+Ebrram (Hybrid IOS & Android)
+
+Google play store: Not Deployed
+Apple Store: https://apps.apple.com/us/app/ابرام-وظائف-و-بيع-الخدمات/id6450036011
+
+Tech Stacks: React Native, Firebase, Wordpress, Notifications.
+
+Features: Ebrram app connects freelancers with users and the admin manages the system of freelancing landing projects and preparing proposals.
